@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430915373529",
+    "project_id": "uasperikanan1",
+    "storage_bucket": "uasperikanan1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430915373529:android:9797bb3bcbcce9d0db31c8",
+        "android_client_info": {
+          "package_name": "com.example.uasperikanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430915373529-h4cmp6k7a9j536505am35p4vm8ufltis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WUXUvRo0RVacDPzUNNz1IR3B40EHmkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430915373529-h4cmp6k7a9j536505am35p4vm8ufltis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
